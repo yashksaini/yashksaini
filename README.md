@@ -13,6 +13,9 @@
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="67" height="67" />
     <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="67" height="67" />
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="67" height="67" />
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="67" height="67" />
+    <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="67" height="67" />
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="67" height="67" />
   </div>
 </div>
 <br>
