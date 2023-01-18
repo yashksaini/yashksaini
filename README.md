@@ -4,7 +4,7 @@
 <!-- For displaying count of profile visit -->
 <img style="width:200px" src="https://komarev.com/ghpvc/?username=yashksaini&label=Profile%20views&color=0e75b6&style=flat" alt="yashksaini" /> 
 
-<img style="width:50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashksaini&show_icons=true&locale=en&layout=compact" alt="yashksaini" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashksaini&show_icons=true&locale=en&layout=compact" alt="yashksaini" />
 
 <div align="left">
   <div style="display: flex; align-items: flex-start;">
