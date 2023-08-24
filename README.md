@@ -1,7 +1,7 @@
 #### Hi there 👋
 ## I am <strong><em>Yash Kumar Saini</em></strong> 
 
-<!-- For displaying count of profile visit -->
+<!-- For displaying the count of profile visits -->
 <img style="width:200px" src="https://komarev.com/ghpvc/?username=yashksaini&label=Profile%20views&color=0e75b6&style=flat" alt="yashksaini" /> 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashksaini&show_icons=true&locale=en&layout=compact" alt="yashksaini" />
@@ -28,7 +28,7 @@
 ## Contact Me
 
 - Email: yashdms1@gmail.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yashkumarsaini/)
+- LinkedIn [LinkedIn Profile](https://www.linkedin.com/in/yashkumarsaini/)
 - Portfolio: [Portfolio Website](https://yashksaini.netlify.app/)
 - Twitter: [@MyTwitter](https://twitter.com/Yash_0606)
 
