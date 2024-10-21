@@ -2,7 +2,7 @@
 ## I am <strong><em>Yash Kumar Saini</em></strong> 
 
 <!-- For displaying the count of profile visits -->
-<img style="width:200px" src="https://komarev.com/ghpvc/?username=yashksaini&label=Profile%20views&color=0e75b6&style=flat" alt="yashksaini" /> 
+<img style="width:120px" src="https://komarev.com/ghpvc/?username=yashksaini&label=Profile%20views&color=0e75b6&style=flat" alt="yashksaini" /> 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashksaini&show_icons=true&locale=en&layout=compact" alt="yashksaini" />
 
